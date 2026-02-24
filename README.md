@@ -1,47 +1,41 @@
-# Web Dev Porfolio
-Personal portfolio showcasing responsive websites built using HTML and CSS (Flexbox/Grid, media queries)
+# Survey Form (freeCodeCamp)
 
-# Your Name — Responsive Web Design Portfolio
+A responsive **Survey Form** project built with **HTML and CSS** as part of the freeCodeCamp *Responsive Web Design* certification. The goal is to practice semantic HTML form structure, accessible labels, and clean, mobile-first styling.
 
-Mobile-first portfolio built with **HTML & CSS**. Showcasing responsive layouts, semantic markup, and clean UI.
+- **Live Demo**: https://YOURNAME.github.io/survey-form/
+- **Source Code**: https://github.com/YOURNAME/survey-form
 
-## Live Site
-- https:responsive_web_porfolio//.github.io/
+## Preview
+- **Screenshot**: Add an image at `assets/screenshot.png` and update this path:
+  - `![Survey Form Preview](assets/screenshot.png)`
 
-## About
-- **Focus**: Responsive web design (mobile-first)
-- **Tech**: HTML5, CSS3 (Flexbox, Grid, media queries)
-- **Includes**: Featured projects, about/skills, contact links
+## Project Requirements (freeCodeCamp)
+- Includes a form with required freeCodeCamp user stories (name, email, number inputs, dropdown, radio buttons, checkboxes, textarea, submit button).
+- Uses proper labels and input types (e.g., `type="email"`, `type="number"`).
+- Uses IDs and `for` attributes to connect labels to inputs.
 
-## Featured Projects
-1. **Project Name**
-   - **Live**: https://YOURNAME.github.io/PROJECT/
-   - **Code**: https://github.com/YOURNAME/PROJECT
-   - **Highlights**: CSS Grid layout, responsive nav, fluid typography
+## Features
+- Mobile-first, responsive layout that stays readable on small screens.
+- Clear spacing and form alignment for better usability.
+- Accessible structure with semantic HTML and associated labels.
 
-2. **Project Name**
-   - **Live**: ...
-   - **Code**: ...
-   - **Highlights**: Flexbox sections, responsive cards, accessible forms
+## Built With
+- **HTML5**
+- **CSS3**
 
-## Screenshots
-![Desktop preview](assets/screenshots/desktop.png)
-![Mobile preview](assets/screenshots/mobile.png)
+## How to Run Locally
+- Download or clone this repository.
+- Open `index.html` in your browser.
 
-## Responsive & Accessibility Notes
-- **Mobile-first CSS** with breakpoints at: 600px, 900px
-- **Layouts** built with CSS Grid/Flexbox (no frameworks)
-- **Accessibility**: semantic HTML, visible focus states, alt text
+## Deployment
+- Deployed with **GitHub Pages**.
+- To deploy your own:
+  - Go to **Settings → Pages**
+  - Select **Deploy from a branch**
+  - Choose **main** branch and **/root**
 
-## Run Locally
-- Download or clone the repo
-- Open `index.html` in your browser  
-  *(Optional: use VS Code “Live Server”)*
+## Acknowledgements
+- freeCodeCamp — Responsive Web Design Certification project
 
 ## License
-MIT License
-
-## Credits
-- Icons: (link)
-- Fonts: (link)
-- Images: (link)
+- **MIT License** (or update this section if you chose a different license)
