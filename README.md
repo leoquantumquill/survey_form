@@ -2,8 +2,8 @@
 
 A responsive **Survey Form** project built with **HTML and CSS** as part of the freeCodeCamp *Responsive Web Design* certification. The goal is to practice semantic HTML form structure, accessible labels, and clean, mobile-first styling.
 
-- **Live Demo**: https://leoquantumquill.github.io/survey-form/
-- **Source Code**: https://github.com/leoquantumquill/survey-form
+- **Live Demo**: https://leoquantumquill.github.io/survey_form/
+- **Source Code**: https://github.com/leoquantumquill/survey_form
 
 ## Preview
 - **Screenshot**: Add an image at `assets/screenshot.png` and update this path:
