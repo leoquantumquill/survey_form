@@ -6,7 +6,7 @@ Personal portfolio showcasing responsive websites built using HTML and CSS (Flex
 Mobile-first portfolio built with **HTML & CSS**. Showcasing responsive layouts, semantic markup, and clean UI.
 
 ## Live Site
-- https://YOURNAME.github.io/
+- https:responsive_web_porfolio//.github.io/
 
 ## About
 - **Focus**: Responsive web design (mobile-first)
