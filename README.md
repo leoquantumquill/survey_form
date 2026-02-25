@@ -6,7 +6,7 @@ A responsive **Survey Form** project built with **HTML and CSS** as part of the 
 - **Source Code**: https://github.com/leoquantumquill/survey_form
 
 ## Preview
-- **Screenshot**: Add an image at `assets/form_screenshot.png` and update this path:
+- **Screenshot**:
   - ![Survey Form Preview](assets/form_screenshot.png)
 
 ## Project Requirements (freeCodeCamp)
