@@ -21,7 +21,6 @@ A responsive **Survey Form** project built with **HTML and CSS** as part of the 
 
 ## Built With
 - **HTML5**
-- **CSS3**
 
 ## How to Run Locally
 - Download or clone this repository.
@@ -29,10 +28,6 @@ A responsive **Survey Form** project built with **HTML and CSS** as part of the 
 
 ## Deployment
 - Deployed with **GitHub Pages**.
-- To deploy your own:
-  - Go to **Settings → Pages**
-  - Select **Deploy from a branch**
-  - Choose **main** branch and **/root**
 
 ## Acknowledgements
 - freeCodeCamp — Responsive Web Design Certification project
