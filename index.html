@@ -2,37 +2,36 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>
-      <h1>Survey Form</h1>
-    </title>
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
   </head>
-<body>
+  <body>
     <h1 id="title">Survey Form</h1>
     <p id="description">Project Survey from CodeCamp</p>
+    <div id="container">
     <form id="survey-form">
-    <label id="name-label">Name</label>
-      <input id="name" placeholder="Jhon Doe" type="text" required></input>
-</br></br>
-    <label id="email-label">Email</label>
-      <input id="email" placeholder="jhondoe@gmail.com" type="email" required></input>
-</br></br>
-    <label id="number-label">Number</label>
-      <input id="number" placeholder="674-896-546"type="number" min="11111111111" max="10"></input>
-</br></br>
-    <select id="dropdown">
-      <option>Tomatoes</option>
-      <option>Grapes</option>
-    </select>
-</br></br>
-      <input name="option1" value="option1" type="radio"><input></br>
-      <input name="option1" value="option1" type="radio"><input>
-</br>
-      <input type="checkbox" value="list1"></input></br>
-      <input type="checkbox" value="list1"></input>
-</br></br>
-      <textarea>
-      </textarea></br> 
-        <button id="submit" type="submit" ></button>
+    <label id="name-label">Name</label><br />
+      <input id="name" placeholder="Jhon Doe" type="text" required ></input><br /><br />
+    <label id="email-label">Email</label><br />
+      <input id="email" placeholder="jhondoe@gmail.com" type="email" required></input><br /><br />
+    <label id="number-label">Number</label><br />
+      <input id="number" placeholder="674-896-5463"type="number" min="12" max="12"></input><br /><br />
+      <select id="dropdown">
+        <option>Option1</option>
+        <option>Option2</option>
+      </select><br /><br />
+        <input id="radio-option1" value="option1" name="option1" type="radio">Radio1</input><br />
+        <input id="radio-option1" value="option1" name="option1" type="radio">Radio2</input><br />
+        <br />
+        <input type="checkbox" value="list1"></input>Option1<br />
+        <input type="checkbox" value="list2"></input>Option2<br /><br />
+        <textarea id="textarea">
+        </textarea><br />
+        <button id="submit" type="submit" name="button">Submit</button>
     </form>
+    </div> 
   </body>
 </html>
