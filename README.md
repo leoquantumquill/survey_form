@@ -28,7 +28,7 @@ A responsive **Survey Form** project built with **HTML and CSS** as part of the 
 - Open `index.html` in your browser.
 
 ## Deployment
-- Deployed with **GitHub Pages**.
+- Not yet deployed.
 
 ## Acknowledgements
 - freeCodeCamp — Responsive Web Design Certification project
