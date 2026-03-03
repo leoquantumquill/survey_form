@@ -21,6 +21,7 @@ A responsive **Survey Form** project built with **HTML and CSS** as part of the 
 
 ## Built With
 - **HTML5**
+- **CSS**
 
 ## How to Run Locally
 - Download or clone this repository.
